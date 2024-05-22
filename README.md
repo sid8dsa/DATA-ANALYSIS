@@ -2,3 +2,10 @@
 PROJECTS  performed as a data analyst
 <br>
 AUTHOR - SIDDHI
+CONTENTS -
+<br>
+1. CREDIT CARD REPORT -
+<br>
+ DETAILED REPORT REGARDING CREDITCARD 
+<br>
+ TOOL USED - POWER BI
